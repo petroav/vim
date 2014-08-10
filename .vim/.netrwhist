@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/anton/workspace/hadapt-cdh3/hadapt-qe-parser'
+let g:netrw_dirhist_2='/home/anton/workspace/hadapt-cdh3/hadapt-qe-parser/build'
+let g:netrw_dirhist_3='/home/anton/workspace/hadapt-cdh3/hadapt-server/build'
+let g:netrw_dirhist_4='/home/anton/Desktop/build/logs/ec2_anton/all_logs/logs/master-10.138.69.24/hadapt-server-logs/tmp/hdfs'
+let g:netrw_dirhist_5='/home/anton/.ssh'
+let g:netrw_dirhist_6='/home/anton/workspace/hadapt/hadapt-query-exec/build'
+let g:netrw_dirhist_7='/home/anton/workspace/hadapt/hadapt-query-exec'
