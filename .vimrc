@@ -64,3 +64,6 @@ let g:ctrlp_regexp_search = 1
 
 " MRU for files like in Intellij
 nnoremap <C-e> :MRU<CR>
+
+" Replace ESC with jj
+:imap jj <Esc>
